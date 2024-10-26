@@ -11,7 +11,7 @@ This is a simple Flask application that allows users to submit their profile inf
 - **Responsive Design**: A clean and user-friendly interface for submitting profiles.
 
 ## Demo Video
-https://github.com/user-attachments/assets/4aafba57-6209-4833-9daf-d3143eb06631
+[https://github.com/user-attachments/assets/4aafba57-6209-4833-9daf-d3143eb06631](https://github.com/user-attachments/assets/d2c6b3d8-dbb8-4d42-ad82-cf43691ffaaa)
 
 ## Project screenshot
 ![project ss](https://github.com/user-attachments/assets/e98fc6c7-f20b-49db-bd1f-e9d77cfbdab8)
