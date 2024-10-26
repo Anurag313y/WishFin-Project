@@ -10,5 +10,6 @@ This is a simple Flask application that allows users to submit their profile inf
 - **Error Handling**: Displays an error message for empty submissions.
 - **Responsive Design**: A clean and user-friendly interface for submitting profiles.
 
-## Project Structure
+## Project screenshot
+https://github.com/Anurag313y/WishFin-Project/blob/main/readme.md#profile-submission-flask-application
 
