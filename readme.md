@@ -11,5 +11,5 @@ This is a simple Flask application that allows users to submit their profile inf
 - **Responsive Design**: A clean and user-friendly interface for submitting profiles.
 
 ## Project screenshot
-https://github.com/Anurag313y/WishFin-Project/blob/main/readme.md#profile-submission-flask-application
+![project ss](https://github.com/user-attachments/assets/e98fc6c7-f20b-49db-bd1f-e9d77cfbdab8)
 
